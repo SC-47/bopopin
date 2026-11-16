@@ -1,0 +1,21 @@
+{
+  "%1 chars/min": "每分鐘 %1 字",
+  "(type v for ü)": "（ü 請打 v）",
+  "Accuracy %1%": "正確率 %1%",
+  "All": "全部",
+  "Always show the pinyin, or stop": "一直顯示拼音，或取消",
+  "Done %1": "已完成 %1 字",
+  "Pinyin Practice": "拼音練習",
+  "Previous or next lesson": "上一課或下一課",
+  "Quit": "離開",
+  "Reset the score and the weak spots": "重設成績和弱點紀錄",
+  "Show or hide the shortcuts": "顯示或隱藏快捷鍵",
+  "Show the pinyin of this character": "顯示這個字的拼音",
+  "Skip this word": "跳過這個詞",
+  "Streak %1": "連續答對 %1",
+  "Tab hint · Esc skip · F1 shortcuts": "Tab 提示 · Esc 跳過 · F1 快捷鍵",
+  "The word list could not be loaded.": "無法載入詞庫。",
+  "Tricky": "易錯拼法",
+  "Type the pinyin of the character in turn": "打出目前這個字的拼音",
+  "Weak spots: %1": "弱點：%1"
+}

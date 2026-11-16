@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Main.qml">Main.qml</file>
+        <file alias="words.tsv">words.tsv</file>
+        <file alias="bopopin.svg">../share/bopopin.svg</file>
+        <file alias="i18n/en.json">i18n/en.json</file>
+        <file alias="i18n/zh-TW.json">i18n/zh-TW.json</file>
+    </qresource>
+</RCC>

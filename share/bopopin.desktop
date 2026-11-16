@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Bopopin
+Name[zh_TW]=拼音練習
+Comment=Know zhuyin? Type pinyin
+Comment[zh_TW]=會注音，就會拼音
+Exec=bopopin
+Icon=bopopin
+Terminal=false
+Categories=Education;Utility;
+StartupWMClass=bopopin
